@@ -1,0 +1,143 @@
+{
+  "easy": [
+    {
+      "id": 0,
+      "question": "What is the part of database that holds only one type of information?",
+      "option1": "Report",
+      "option2": "Field",
+      "option3": "Record",
+      "option4": "File",
+      "answer": 2
+    },
+    {
+      "id": 1,
+      "question": "When is International Workers' Day?",
+      "option1": "15th April",
+      "option2": "12th December",
+      "option3": "1st May",
+      "option4": "1st August",
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "When is the World Population Day observed?",
+      "option1": "May 31",
+      "option2": "October 4",
+      "option3": "December 10",
+      "option4": "July 11",
+      "answer": 4
+    },
+    {
+      "id": 3,
+      "question": "Which county did Ravi Shastri play for?",
+      "option1": "Glamorgan",
+      "option2": "Leicestershire",
+      "option3": "Gloucestershire",
+      "option4": "Lancashire",
+      "answer": 1
+    },
+    {
+      "id": 4,
+      "question": "Entomology is the science that studies",
+      "option1": "The origin and history of technical and scientific terms",
+      "option2": "Behavior of human beings",
+      "option3": "Insects",
+      "option4": "The formation of rocks",
+      "answer": 3
+    }
+  ],
+  "medium": [
+    {
+      "id": 0,
+      "question": "Who is the father of Geometry?",
+      "option1": "Aristotle",
+      "option2": "Euclid",
+      "option3": "Pythagoras",
+      "option4": "Kepler",
+      "answer": 2
+    },
+    {
+      "id": 1,
+      "question": "Who was known as the Iron Man of India?",
+      "option1": "Govind Ballabh Pant",
+      "option2": "Jawaharlal Nehru",
+      "option3": "Subhash Chandra Bose",
+      "option4": "Sardar Vallabhbhai Patel",
+      "answer": 4
+    },
+    {
+      "id": 2,
+      "question": "Jude Felix is a famous Indian player in which field?",
+      "option1": "Volleyball",
+      "option2": "Tennis",
+      "option3": "Football",
+      "option4": "Hockey",
+      "answer": 4
+    },
+    {
+      "id": 3,
+      "question": "Element Bulb is a filament of",
+      "option1": "Copper",
+      "option2": "Aluminium",
+      "option3": "Lead",
+      "option4": "Tungsten",
+      "answer": 4
+    },
+    {
+      "id": 4,
+      "question": "Tetraethyl Lead is used in",
+      "option1": "Pain Killer",
+      "option2": "Fire Extinguisher",
+      "option3": "Mosquito Repellent",
+      "option4": "Petrol Additive",
+      "answer": 4
+    }
+  ],
+  "hard": [
+    {
+      "id": 0,
+      "question": "Article 360 to constitution of India deals with the provisions as to:",
+      "option1": "Official Language",
+      "option2": "Temporary, Transitional and Special Provisions",
+      "option3": "Amendment of the Constitution",
+      "option4": "Financial Emergency",
+      "answer": 4
+    },
+    {
+      "id": 1,
+      "question": "The Right to property was deleted from the list of Fundamental Rights by",
+      "option1": "42nd constitutional Act",
+      "option2": "43rd constitutional Act",
+      "option3": "44th constitutional Act",
+      "option4": "47th constitutional Act",
+      "answer": 3
+    },
+    {
+      "id": 2,
+      "question": "A person to be eligible to be the President of India should have completed",
+      "option1": "25 years",
+      "option2": "21 years",
+      "option3": "30 years",
+      "option4": "35 years",
+      "answer": 4
+    },
+    {
+      "id": 3,
+      "question": "The Union Executive consists of",
+      "option1": "The President, and the Council of Ministers",
+      "option2": "The Prime Minister",
+      "option3": "Attorney General of India",
+      "option4": "All of above",
+      "answer": 4
+    },
+    {
+      "id": 4,
+      "question": "The Administrative Head of the Cabinet Secretariat is",
+      "option1": "Cabinet Minister",
+      "option2": "The Prime Minister",
+      "option3": "Cabinet Secretary",
+      "option4": "The President",
+      "answer": 3
+    }
+  ]
+}
